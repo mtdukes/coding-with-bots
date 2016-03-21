@@ -35,7 +35,7 @@ source ~/.bash_profile
 ```
 
 #### Install pip
-Pip is, (to quote much smarter developers)[http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html], like an app store for Python code. It will help you install new tools you need to code projects more efficiently and expand your own code’s capabilities.
+Pip is, [to quote much smarter developers](http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html), like an app store for Python code. It will help you install new tools you need to code projects more efficiently and expand your own code’s capabilities.
 
 Open Terminal and enter the following command. Press ```Return``` to run (you must have admin privileges on your machine):
 
@@ -77,17 +77,17 @@ Save the file by typing ```control+X```, ```Y``` in response to “Save modified
 source ~/.bash_profile
 ```
 
-For more information and follow-up reading, see the virtual environments entry in (The Hitchhiker’s Guide to Python)[http://docs.python-guide.org/en/latest/dev/virtualenvs/].
+For more information and follow-up reading, see the virtual environments entry in [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
 
 #### Installing Git and GitHub
 
 Git is a version control system you can use to manage your code projects. It powers an easy-to-use online repository system called GitHub, which allows you to track your code contributions and collaborate with others.
 
-Install Git (using the installer here)[https://git-scm.com/download/mac] and follow the prompts (you will probably need admin access to do this).
+Install Git [using the installer here](https://git-scm.com/download/mac) and follow the prompts (you will probably need admin access to do this).
 
-Now, (sign up for GitHub)[https://github.com/join].
+Now, [sign up for GitHub](https://github.com/join).
 
-Now, (follow the instructions on generating SSH keys)[https://help.github.com/articles/generating-an-ssh-key/] and adding them to your GitHub account (don't install the desktop client). This will prevent you from having to use passwords to log in to your account from the Terminal, allowing you to quickly upload code contributions to your GitHub projects. Start with “Checking for existing SSH keys,” and make sure you’re using the instructions for Macs (you will probably need admin access to do this).
+Now, [follow the instructions on generating SSH keys](https://help.github.com/articles/generating-an-ssh-key/) and adding them to your GitHub account (don't install the desktop client). This will prevent you from having to use passwords to log in to your account from the Terminal, allowing you to quickly upload code contributions to your GitHub projects. Start with “Checking for existing SSH keys,” and make sure you’re using the instructions for Macs (you will probably need admin access to do this).
 
 #### Installing Sublime Text
-There are lots of text editors out there, and you’re free to use whichever one you’re comfortable with. I (suggest installing Sublime)[https://www.sublimetext.com/] Text (you’ll need admin privileges). 
+There are lots of text editors out there, and you’re free to use whichever one you’re comfortable with. I [suggest installing Sublime](https://www.sublimetext.com/) Text (you’ll need admin privileges). 
