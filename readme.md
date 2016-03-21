@@ -1,8 +1,10 @@
 # Coding with bots
 
+This half-day workshop led by WRAL reporter Tyler Dukes will explore coding basics through the creation of customized Twitter bots. Topics will include use of the command line, installation and basics of the Python programming language, use of the Twitter developer console, practical Github for projects and an introduction to servers.
+
 ## Lesson 0: Setting up
 
-Please read this email carefully and follow the instructions before the workshop Wednesday. You’ll need to have a few things set up on your machine properly before moving forward. If you’re using a work machine, you will likely have to get IT to use their administrative access to install these items.
+Please read this carefully and follow the instructions before the workshop Wednesday. You’ll need to have a few things set up on your machine properly before moving forward. If you’re using a work machine, you will likely have to get IT to use their administrative access to install these items.
 
 The following instructions assume you’re using a Mac.
 
