@@ -173,23 +173,7 @@ Now, [follow the instructions on generating SSH keys](https://help.github.com/ar
 #### Installing Sublime Text
 There are lots of text editors out there, and you’re free to use whichever one you’re comfortable with. I [suggest installing Sublime](https://www.sublimetext.com/) Text (you’ll need admin privileges).
 
-## Lesson 1: Python basics
+### [Next lesson](./lessonOne.md)
 
-TK
 
-## Lesson 2: Practical Github
-
-TK
-
-## Lesson 3: Becoming a Twitter developer
-
-TK
-
-## Lesson 4: Working with Python libraries
-
-TK
-
-## Lesson 5: Deploying your app
-
-TK
 
