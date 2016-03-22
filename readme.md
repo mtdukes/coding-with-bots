@@ -173,7 +173,7 @@ Now, [follow the instructions on generating SSH keys](https://help.github.com/ar
 #### Installing Sublime Text
 There are lots of text editors out there, and you’re free to use whichever one you’re comfortable with. I [suggest installing Sublime](https://www.sublimetext.com/) Text (you’ll need admin privileges).
 
-### [Next lesson](./lessonOne.md)
+### >>> [Next lesson](./lessons/lessonOne.md)
 
 
 
