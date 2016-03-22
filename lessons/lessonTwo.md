@@ -2,4 +2,4 @@
 
 TK
 
-### >>> [Next lesson](./lessons/lessonThree.md)
+### >>> [Next lesson](./lessonThree.md)
