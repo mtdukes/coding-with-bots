@@ -12,7 +12,7 @@ Please read this carefully and follow the instructions before the workshop Wedne
 All Macs should come pre-installed with Python, the coding language we’ll be using for the workshop. Open Terminal and use the following command to check which version of Python you’re using (press return to execute the line of code).
 
 ```bash
-python –V
+python -V
 ```
 
 You should be running a version of Python 2.7.X. On my machine, for example, I’m running 2.7.10.
