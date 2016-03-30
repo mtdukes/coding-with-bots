@@ -14,7 +14,11 @@ To __clone__ a repo, we're just going to download it and store it locally, say i
 git clone https://github.com/YOUR-USERNAME/coding-with-bots.git
 ```
 
-Now, if you ```ls```, you should see a new directory called coding-with-bots, filled with all the files from this very repo.
+Now, if you ```ls```, you should see a new directory called coding-with-bots, filled with all the files from this very repo. Get excited!
+
+![Brent's got it.](https://raw.githubusercontent.com/mtdukes/coding-with-bots/master/img/andy-excite.gif)
+
+#### Managing versions
 
 But we also need to tell git that we want it to sync to the original repo, in case there are changes we need to get. In the coding-with-bots directory enter the following command to show the current remote repository for the fork on your local machine.
 
@@ -47,6 +51,10 @@ Check your current branch with:
 ```bash
 git status
 ```
+
+![Brent's got it.](https://raw.githubusercontent.com/mtdukes/coding-with-bots/master/img/logical.gif)
+
+#### The Git model
 
 Git follows a production model for code meaning changes move like so:
 
@@ -83,7 +91,9 @@ git pull
 
 This command becomes extremely useful later if we're deploying changes to a server.
 
-Of course, this is all much more simple if you're [starting your own repo](https://help.github.com/articles/create-a-repo/). 
+Of course, this is all much more simple if you're [starting your own repo](https://help.github.com/articles/create-a-repo/), but things are better as part of a team, right?
+
+![Brent's got it.](https://raw.githubusercontent.com/mtdukes/coding-with-bots/master/img/nasa_cheer.gif)
 
 #### Further reading
 
