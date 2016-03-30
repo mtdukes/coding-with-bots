@@ -13,11 +13,11 @@ secret_keys = []
 #Our main worker function
 def main():
 	authenticate()
-	#test_timeline()
+	test_timeline()
 	#a_tweet("HEY Y'ALL I'M A TWEET.")
 	#tweet_ex()
 	#random_tweet()
-	gif_tweet()
+	#gif_tweet()
 
 #A function for authenticating into our Twitter app
 def authenticate():
