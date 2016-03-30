@@ -8,7 +8,7 @@ The __command line__, accessible in Mac through Terminal or PC through PowerShel
 
 __[Sublime](https://www.sublimetext.com/)__ is a text-editor with nice capabalilites like __syntax highlighting__ which can give you clues about the formatting of your code specific to the language you're using. We'll be using Sublime for this workshop, but feel free to explore other text editor options.
 
-__[Github](https://github.com/)__ is a Web-based service built on git, an industry standard system used to manage code and software. It's centered around the idea of __version control__, allowing multiple collaborators to contribute to a code base. Project managers can accept or reject these changes, branch the code in different directions or revert to old versions in case of disaster.
+__[GitHub](https://github.com/)__ is a Web-based service built on git, an industry standard system used to manage code and software. It's centered around the idea of __version control__, allowing multiple collaborators to contribute to a code base. Project managers can accept or reject these changes, branch the code in different directions or revert to old versions in case of disaster.
 
 An __API__, or application programming interface, is a system that allows you to easily interact with a third-party's data (or your own, if it's an in-house API). They are typically designed so you can programatically query for specific types of data through requests structured like URLs. For this workshop, we'll be using a Python library that makes using the Twitter API really easy.
 
