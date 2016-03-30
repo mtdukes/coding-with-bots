@@ -15,7 +15,7 @@ An __API__, or application programming interface, is a system that allows you to
 A __server__ is just a computer that's going to do whatever we say. It might be remote, like ones we use through [Amazon Web Services](http://aws.amazon.com/), or it could be local on our own machine. Running a remote server for code is nice because it doesn't require you to keep your personal or work machine on all the time.
 
 __Got all that?__
-![Brent's got it.](.img/brent-year.gif )
+![Brent's got it.](./img/brent-year.gif )
 
 #### Further reading
 
