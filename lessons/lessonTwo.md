@@ -98,6 +98,6 @@ Of course, this is all much more simple if you're [starting your own repo](https
 #### Further reading
 
 - [GitHub for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=%7Eoxo1ZxMiZHjClD)
-- [How to use GitHub and Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
+- [How to use GitHub and Terminal (which was EXTREMELY helpful in crafting this lesson)](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 
 ### >>> [Next lesson](./lessonThree.md)
