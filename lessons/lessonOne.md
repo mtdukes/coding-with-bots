@@ -49,6 +49,8 @@ $ clear
 
 Use the up and down arrows to scroll through previous commands.
 
+![Brent's got it.](https://raw.githubusercontent.com/mtdukes/coding-with-bots/master/img/deep-end.gif)
+
 #### Let's get Pythoning!
 
 Now that we've made a shiny new directory, let's do some stuff with it.
@@ -58,8 +60,6 @@ mkvirtualenv code-workshop
 ```
 
 Now we're working in a virtual environment, which keeps everything nice and tidy on our machine so we don't break stuff.
-
-
 
 Fire up the Python shell
 
@@ -164,13 +164,17 @@ print my_truck.keys()
 print my_truck.values()
 ```
 
-Even these small bits of code can be extremely powerful, so let's try combining them into a __python script__. Exit the shell.
+![Brent's got it.](https://raw.githubusercontent.com/mtdukes/coding-with-bots/master/img/explosions.gif)
+
+### Running Python scripts
+
+Even these small bits of code can be extremely powerful, so let's try combining them into a __python script__ and do some real damage. Exit the shell.
 
 ```python
 exit()
 ```
 
-Then right click and download the following file into your project folder. Then open the following file in Sublime.
+Then right click and [download the following file](https://github.com/mtdukes/coding-with-bots/blob/master/code_samples/hello-world.py) into your project folder. Then open the following file in Sublime.
 
 To run the file, enter the following command:
 
@@ -179,6 +183,8 @@ python hello-world.py
 ```
 
 Stuck? Have a question about how to do something in Python? Google it! There are so many Python users out there, you're bound to find a good answer.
+
+![Brent's got it.](https://raw.githubusercontent.com/mtdukes/coding-with-bots/master/img/dont-tell-me.gif)
 
 Remember: The best coders know when to ask others for help!
 
