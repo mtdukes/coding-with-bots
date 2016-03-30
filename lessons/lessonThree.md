@@ -2,7 +2,7 @@
 
 Twitter provides [a powerful API](https://dev.twitter.com/) for accessing its platform and building cool stuff, but you have to have an account and be signed up as a developer.
 
-To do that, begin by registering [a brand new Twitter account](https://twitter.com).
+To do that, begin by registering [a brand new Twitter account](https://twitter.com). You must provide a phone number and confirm your account via email. Follow a few accounts to give us something work with when we test later.
 
 When your new account is created, make sure you're logged in and go to Twitter's developer site. At the bottom of the page, click on "Manage Your Apps."
 
@@ -13,7 +13,7 @@ Under "Keys and Access Tokens" take note of the following:
 - Consumer Key (API Key)
 - Consumer Secret (API Secret)
 
-You'll also need to generate two other codes:
+You'll also need to generate two other codes by clicking the "Create Access Tokens" button:
 
 - Access Token
 - Access Token Secret
