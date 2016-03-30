@@ -18,6 +18,20 @@ __Got all that?__
 
 ![Brent's got it.](https://raw.githubusercontent.com/mtdukes/coding-with-bots/master/img/brent-yeah.gif)
 
+#### Basic command line
+
+At its core, the command line allows you to navigate the file structure of your computer, creating, moving and deleting like you would with a regular interface. Here's some basic stuff.
+
+Show me the present working directory
+```bash
+pwd
+```
+
+Show me the files and folders in the current directory
+```bash
+pwd
+```
+
 #### Further reading
 
 - [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
