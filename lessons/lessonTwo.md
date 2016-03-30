@@ -63,7 +63,7 @@ You can also quickly add everything in your project with ```git add .```
 Commit the changes with a commit message -- something short and descriptive about the change.
 
 ```bash
-git commit -m "Tyler's first commit"
+git commit -m "YOURNAME's first commit"
 ```
 
 Push your changes to YOUR branch with:
@@ -72,11 +72,12 @@ Push your changes to YOUR branch with:
 git push origin YOURNAME-branch
 ```
 
+When you go back to GitHub in your browser, you can submit a __pull request__ to the project manager, which will allow him or her to incorporate your changes into the main repository.
 
-But cloning also gives us the ability to pull down new updates as code is updated. ```cd``` into the new directory and run the ```pull``` command.
+To make sure you've got the most updated version of the project, make sure you're in the master branch and use the __pull command.
 
 ```bash
-cd coding-with-bots
+git checkout master
 git pull
 ```
 
